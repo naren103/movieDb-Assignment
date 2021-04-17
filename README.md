@@ -35,8 +35,4 @@ npm run build
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Partner Projects
 
-See the following for the `boost` server side boilerplates that play nice with this Vue project -
-
-- [Adonis v4.1](https://github.com/techformist/adonis41-api-boost)
