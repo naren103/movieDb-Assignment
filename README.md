@@ -1,4 +1,4 @@
-# vue-vuetify-api-boost
+# movieDb-Assignment
 
 ## What is this?
 
